@@ -1,0 +1,8 @@
+Flask
+geopandas
+rasterio
+requests
+beautifulsoup4
+shapely
+matplotlib
+numpy
