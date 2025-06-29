@@ -1,5 +1,6 @@
 Flask
 geopandas
+gunicorn
 rasterio
 requests
 beautifulsoup4
